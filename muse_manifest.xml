@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Eugenie081.github" resolutions="1x" timestamp="1553005949243">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="EUGENIE.COM" resolutions="1x" timestamp="1553013014090">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4239314861" ref="index"/>
+    <file name="index.css" crc="489662687" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="audio-r8-final-compositing-2.mp4" crc="4119938443" seo="true" mt="1533900273000"/>
@@ -24,7 +24,7 @@
   </folder>
   <folder name="images">
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="sea 7 композиция 3 best-crop-u821.jpg" crc="3800428027" seo="true" ref="index">
+    <file name="sea 7 композиция 3 best.jpg" crc="4128708443" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u851-4.png" crc="179575448" ref="index"/>
@@ -36,6 +36,7 @@
     <file name="u1048-5.png" crc="314001856" ref="index"/>
     <file name="серенький.png" crc="86997926" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="888.gif" crc="288664033" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -46,13 +47,8 @@
     <file name="u2345-18.png" crc="3977872219" ref="index"/>
     <file name="u2340-19.png" crc="53599818" ref="index"/>
     <file name="u2350-12.png" crc="496624104" ref="index"/>
-    <file name="белый-crop-u2588.jpg" crc="256635541" seo="true" ref="index">
+    <file name="белый.jpg" crc="392525113" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-    </file>
-    <file name="белый-crop-u2725.jpg" crc="256635541" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="серенький-crop-u2015.png" crc="486384021" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="динамик.png" crc="79791863" seo="true" ref="index">
@@ -63,7 +59,7 @@
     <folder name="css">
       <file name="index.css" crc="3972356362" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4210243880" seo="true" mt="1498759103491" redirect="false"/>
+    <file name="index.html" crc="4024864774" seo="true" mt="1498759103491" redirect="false"/>
   </folder>
-  <file name="index.html" crc="488388223" seo="true" mt="1498773370004" redirect="true"/>
+  <file name="index.html" crc="4135414581" seo="true" mt="1553012902294" redirect="true"/>
 </manifest>
